@@ -1,3 +1,3 @@
 
-void msort(T * L, int n);
-void merge(T *A, int a, T * B, int b, T * R);
+void msort(int * L, int n);
+void merge(int *A, int a, int * B, int b, int * R);
